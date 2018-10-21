@@ -20,7 +20,6 @@ public class Smiley extends Applet{
 		g.fillOval(190, 120, 50, 20);
 		g.drawLine(165, 125, 165, 175);
 		g.drawArc(110, 130, 95, 95, 0, -180);
-		g.fillOval(90, 120, 50, 20)
 		
 	}
 }
